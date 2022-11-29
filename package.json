@@ -1,7 +1,7 @@
 {
-  "name": "react-portfolio-20",
+  "name": "portfolio",
   "version": "2.0.0",
-  "homepage": "https://hieuwy.github.io/react-portfolio-20/",
+  "homepage": "https://hieuwy.github.io/portfolio/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
